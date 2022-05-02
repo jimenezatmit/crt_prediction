@@ -1,0 +1,1 @@
+{'model': 'rfr', 'params': {'model__max_depth': [10], 'model__n_estimators': [600], 'model__max_features': ['log2'], 'poly__degree': [1]}, 'splits': range(0, 50), 'max_mindf': 10, 'test_size': 0.1, 'n_components': 0.1}
