@@ -1,4 +1,4 @@
-# crt_project
+# Predicting Cognitive Reflection from Digital Fingerprints
 
 Please read below for a high-level explanation of code structure. **All relevant code and results are stored in the /pipeline folder.**
 
